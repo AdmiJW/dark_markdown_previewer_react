@@ -62,10 +62,10 @@ html {
 }
 
 .App {
-  width: 100vw;
-  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
   background-color: black;
-  background-image: url("https://i.pinimg.com/originals/ce/7a/1a/ce7a1a5a6639b3430774c83c5910e537.jpg");
+  background-image: url("../images/background.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

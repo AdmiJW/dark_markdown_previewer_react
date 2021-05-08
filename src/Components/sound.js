@@ -1,8 +1,8 @@
 const beep = document.createElement('audio');
-beep.src = 'sounds/beep.mp3';
+beep.src = require('../sounds/beep.mp3');
 
 const selected = document.createElement('audio');
-selected.src = 'sounds/select.mp3';
+selected.src = require('../sounds/select.mp3');
 
 export default {
     playBeep: () => {

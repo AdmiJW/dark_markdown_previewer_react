@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/dark_markdown_previewer_react/static/css/main.4cbc5691.chunk.css",
-    "main.js": "/dark_markdown_previewer_react/static/js/main.607d7e35.chunk.js",
-    "main.js.map": "/dark_markdown_previewer_react/static/js/main.607d7e35.chunk.js.map",
+    "main.css": "/dark_markdown_previewer_react/static/css/main.d8d74c21.chunk.css",
+    "main.js": "/dark_markdown_previewer_react/static/js/main.ed115f0d.chunk.js",
+    "main.js.map": "/dark_markdown_previewer_react/static/js/main.ed115f0d.chunk.js.map",
     "runtime-main.js": "/dark_markdown_previewer_react/static/js/runtime-main.70272d08.js",
     "runtime-main.js.map": "/dark_markdown_previewer_react/static/js/runtime-main.70272d08.js.map",
     "static/js/2.35cd9cb3.chunk.js": "/dark_markdown_previewer_react/static/js/2.35cd9cb3.chunk.js",
     "static/js/2.35cd9cb3.chunk.js.map": "/dark_markdown_previewer_react/static/js/2.35cd9cb3.chunk.js.map",
     "index.html": "/dark_markdown_previewer_react/index.html",
-    "precache-manifest.2bb254d52d3db63267e4ce21f64960f1.js": "/dark_markdown_previewer_react/precache-manifest.2bb254d52d3db63267e4ce21f64960f1.js",
+    "precache-manifest.e9aa09f2e4c66d21e741940bb3e4d3f4.js": "/dark_markdown_previewer_react/precache-manifest.e9aa09f2e4c66d21e741940bb3e4d3f4.js",
     "service-worker.js": "/dark_markdown_previewer_react/service-worker.js",
-    "static/css/main.4cbc5691.chunk.css.map": "/dark_markdown_previewer_react/static/css/main.4cbc5691.chunk.css.map",
-    "static/js/2.35cd9cb3.chunk.js.LICENSE.txt": "/dark_markdown_previewer_react/static/js/2.35cd9cb3.chunk.js.LICENSE.txt"
+    "static/css/main.d8d74c21.chunk.css.map": "/dark_markdown_previewer_react/static/css/main.d8d74c21.chunk.css.map",
+    "static/js/2.35cd9cb3.chunk.js.LICENSE.txt": "/dark_markdown_previewer_react/static/js/2.35cd9cb3.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/dark_markdown_previewer_react/static/media/background.2aa8767b.jpg",
+    "static/media/beep.mp3": "/dark_markdown_previewer_react/static/media/beep.9558f9d0.mp3",
+    "static/media/select.mp3": "/dark_markdown_previewer_react/static/media/select.f519d0a2.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.70272d08.js",
     "static/js/2.35cd9cb3.chunk.js",
-    "static/css/main.4cbc5691.chunk.css",
-    "static/js/main.607d7e35.chunk.js"
+    "static/css/main.d8d74c21.chunk.css",
+    "static/js/main.ed115f0d.chunk.js"
   ]
 }
